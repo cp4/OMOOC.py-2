@@ -3,6 +3,7 @@
 - [首次尝试](1sTry/README.md)
   + [双推记录](1sTry/dpush.md)
 - [迭代开发](2nDev/README.md)
+  + [tkinter学习](2nDev/tkinter.md) 
 - [线下记录](f2f/README.md)
   + [10月26日首次线下](f2f/2wd6_1026.md)
 - [代码 (_src)](_src/README.md)
